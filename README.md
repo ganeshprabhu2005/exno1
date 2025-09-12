@@ -51,9 +51,11 @@ df.isnull().any()
 df.dropna(axis=0)
 
 <img width="1028" height="531" alt="Screenshot 2025-09-12 212848" src="https://github.com/user-attachments/assets/ac280828-41aa-4033-b0cf-ba5769098806" />
+
 df.dropna(axis=1)
 
 <img width="460" height="838" alt="Screenshot 2025-09-12 213315" src="https://github.com/user-attachments/assets/095a1707-d4d7-4d71-acc7-26878064ee8d" />
+
 
 df.fillna(5)
 
