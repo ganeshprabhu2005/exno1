@@ -115,7 +115,7 @@ z
 
 <img width="924" height="659" alt="Screenshot 2025-09-12 214626" src="https://github.com/user-attachments/assets/db0430e6-3349-4cfb-901d-3630c239bc9a" />
 
-df2=df1[z<3]
+df2=df1[z<3] 
 df2
 
 <img width="679" height="502" alt="Screenshot 2025-09-12 214724" src="https://github.com/user-attachments/assets/f758f85b-4d63-4650-ac3d-8c806f1cf851" />
